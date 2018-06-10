@@ -34,11 +34,15 @@ npm run build
 ```
 
 ### 预览图
-
+#### 积分商城预览图
 ![shop](https://github.com/forrestyuan/vue-questionare/blob/master/shop.png)
+#### 问卷填写页面预览图
 ![qs](https://github.com/forrestyuan/vue-questionare/blob/master/qs.png)
+#### 问卷生成二维码预览图
 ![qrcode](https://github.com/forrestyuan/vue-questionare/blob/master/qrcode.PNG)
+#### 手机端问卷填写页效果图
 ![mobile](https://github.com/forrestyuan/vue-questionare/blob/master/mobile.png)
+#### 数据可视化类型
 ![data](https://github.com/forrestyuan/vue-questionare/blob/master/data.png)
 
 ## 如果觉得有帮助可以star一下  *_*

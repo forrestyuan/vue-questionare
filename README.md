@@ -1,4 +1,4 @@
-# vue-scscms
+# vue-questionare
 
 基于koa2 elementUI mysql 搭建问卷调查系统，数据结果可视化，同时设有积分商城，用于激励用户使用该系统。
 
@@ -34,8 +34,8 @@ npm run build
 
 ### 预览图
 
-![shop]()
-![qs]()
-![qrcode]()
-![qs]()
-![data]()
+![shop](https://github.com/forrestyuan/vue-questionare/blob/master/shop.png)
+![qs](https://github.com/forrestyuan/vue-questionare/blob/master/qs.png)
+![qrcode](https://github.com/forrestyuan/vue-questionare/blob/master/qrcode.PNG)
+![mobile](https://github.com/forrestyuan/vue-questionare/blob/master/mobile.png)
+![data](https://github.com/forrestyuan/vue-questionare/blob/master/data.png)

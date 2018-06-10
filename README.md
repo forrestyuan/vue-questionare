@@ -1,6 +1,7 @@
 # vue-questionare
 
 基于koa2 elementUI mysql 搭建问卷调查系统，数据结果可视化，同时设有积分商城，用于激励用户使用该系统。
+项目中没有上传package.json文件,需要的可以加作者微信sumaverage要。
 
 ### 安装
 执行下面命令，安装依赖包
@@ -39,3 +40,5 @@ npm run build
 ![qrcode](https://github.com/forrestyuan/vue-questionare/blob/master/qrcode.PNG)
 ![mobile](https://github.com/forrestyuan/vue-questionare/blob/master/mobile.png)
 ![data](https://github.com/forrestyuan/vue-questionare/blob/master/data.png)
+
+## 如果觉得有帮助可以star一下  *_*

@@ -34,6 +34,8 @@ npm run build
 ```
 
 ### 预览图
+#### 首页预览图
+![front](https://github.com/forrestyuan/vue-questionare/blob/master/front.png)
 #### 积分商城预览图
 ![shop](https://github.com/forrestyuan/vue-questionare/blob/master/shop.png)
 #### 问卷填写页面预览图
